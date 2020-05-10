@@ -44,7 +44,7 @@ npm install botbuilder-wechat-connector-ts
 * [Creating Wechat App](#creating-wechat-app)
 
 ## Documentation
-You can find documentation [here](https://crisboarna.github.io/botbuilder-wechat-connector/)
+You can find documentation [here](https://crisboarna.github.io/botbuilder-wechat-connector-ts/)
 
 ## Features
 * Microsoft Bot Framework Wechat Connector with simple setup
